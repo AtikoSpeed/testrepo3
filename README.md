@@ -8,4 +8,4 @@ In this repository, I will be creating various web pages and components using Bo
 
 Feel free to explore the code and documentation to learn more about my journey in mastering Bootstrap and front-end development.
 
-(My Website)[https://atakan.ninja]
+[My Website](https://atakan.ninja)
